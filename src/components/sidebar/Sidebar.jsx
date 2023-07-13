@@ -2,8 +2,10 @@ import "./sidebar.scss";
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import PersonOutlineOutlinedIcon from '@mui/icons-material/PersonOutlineOutlined';
 import StoreMallDirectoryOutlinedIcon from '@mui/icons-material/StoreMallDirectoryOutlined';
-import Inventory2OutlinedIcon from '@mui/icons-material/Inventory2Outlined';import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
-import AnalyticsOutlinedIcon from '@mui/icons-material/AnalyticsOutlined';import NotificationsNoneOutlinedIcon from '@mui/icons-material/NotificationsNoneOutlined';
+import Inventory2OutlinedIcon from '@mui/icons-material/Inventory2Outlined';
+import LocalShippingOutlinedIcon from '@mui/icons-material/LocalShippingOutlined';
+import AnalyticsOutlinedIcon from '@mui/icons-material/AnalyticsOutlined';
+import NotificationsNoneOutlinedIcon from '@mui/icons-material/NotificationsNoneOutlined';
 import SettingsSystemDaydreamOutlinedIcon from '@mui/icons-material/SettingsSystemDaydreamOutlined';
 import PsychologyOutlinedIcon from '@mui/icons-material/PsychologyOutlined';
 import SettingsApplicationsOutlinedIcon from '@mui/icons-material/SettingsApplicationsOutlined';
@@ -20,7 +22,7 @@ const Sidebar = () => {
       <div className="center">
         <ul>
           <p className="title">MAIN</p>
-          <li> <DashboardIcon className="icon"/><span>Dashboard</span></li>
+          <li><DashboardIcon className="icon"/><span>Dashboard</span></li>
           <p className="title">LISTS</p>
           <li><PersonOutlineOutlinedIcon className="icon"/><span>Users</span></li>
           <li><StoreMallDirectoryOutlinedIcon className="icon"/><span>Products</span></li>
