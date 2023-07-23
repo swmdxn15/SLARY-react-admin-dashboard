@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an Admin Dashboard web app built using ReactJS.
+
+## Screenshots
+<img width="1440" alt="Screenshot 2023-07-22 at 10 26 18 PM" src="https://github.com/swmdxn15/SLARY-react-admin-dashboard/assets/86848961/48d5a71c-64c0-4fcc-a476-a238e5cf7b12">
 
 ## Available Scripts
 
